@@ -1,98 +1,89 @@
-# 📊 Sales Analysis Project
+# 📊 Sales Analysis Dashboard
 
-## 📌 Overview
+## 🚀 Overview
 
-This project focuses on analyzing sales data to uncover key insights related to product performance, regional sales, and overall business trends.
-The objective is to support data-driven decision-making and improve business performance.
+This project analyzes sales performance across products and cities to uncover key business insights and support data-driven decision-making.
 
-## 📊 Project Objective
-The main objective of this project is to analyze sales performance and identify opportunities to increase profitability and optimize business strategy.
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+---
+
+## 🎯 Objective
+
+The goal of this project is to identify opportunities to improve profitability, optimize product strategy, and enhance overall business performance.
+
 ---
 
 ## 🛠 Tools & Technologies
 
+* Power BI (Dashboard & Visualization)
 * Python (Pandas, NumPy)
-* Data Visualization (Matplotlib)
-* Excel (Reporting)
+* Excel (Data Preparation)
+* DAX (Calculations)
 
 ---
 
-## 📂 Dataset Description
+## 🔍 Key Analysis
 
-The dataset includes sales transactions with the following features:
-
-* Product
-* Sales
-* Cost
-* Profit
-* City
-* Date (Month)
-
----
-
-## 🔍 Key Analysis Performed
-
-* Data Cleaning and preprocessing
-* Feature Engineering (Profit, Profit Margin, Order Value)
-* Top & Weak Product Analysis
+* Data Cleaning & Preprocessing
+* Profit & Profit Margin Analysis
+* Top & Underperforming Products
 * City Performance Analysis
-* Monthly Sales Trend Analysis
+* Sales Trend Analysis
 
 ---
 
-## 📊 Key Insights
+## 💡 Key Insights
 
-### 🟢 Top Products
+### 🟢 Top Performing Products
 
-* Xiaomi 13 is the most profitable product
-* Indicates strong demand and efficient pricing strategy
+* Headphones and Xiaomi 13 are top-performing products in both sales and profit
+* Indicates strong demand and effective pricing strategy
 
-### 🔴 Weak Products
+### 🔴 Underperforming Products
 
-* Dell XPS has the lowest contribution to profit
-* Suggests lower efficiency compared to other products
+* Some products generate lower profit despite strong sales
+* Suggests inefficiencies in pricing or high costs
 
-### 🔵 City Analysis
+### 🔵 Market Performance
 
-* Kuwait is the highest-performing market
-* Represents a strong opportunity for expansion
-
-### 🟡 Monthly Trends
-
-* Sales show a stable pattern across months
-* No strong seasonality detected
+* Certain cities outperform others, highlighting expansion opportunities
 
 ---
 
 ## 🎯 Business Recommendations
 
-* Increase investment in high-performing products
-* Re-evaluate pricing and cost structure for weak products
-* Expand operations in high-performing markets (e.g., Kuwait)
-* Apply up-selling and cross-selling strategies to boost revenue
+* Focus on high-margin products to maximize profitability
+* Re-evaluate pricing strategy for low-profit items
+* Expand in high-performing markets
+* Apply cross-selling and bundling strategies
 
 ---
 
 ## 📁 Project Files
 
 * `sales_analysis.ipynb` → Full analysis
-* `Final_Report.xlsx` → Final report with insights
+* `Final_Report.xlsx` → Dashboard & report
 
 ---
 
-## 🚀 Business Impact
+## 📈 Business Impact
 
-This analysis helps identify:
+This analysis helps:
 
-* Profit drivers
-* Underperforming products
-* High-potential markets
-* Opportunities for revenue growth
+* Identify profit drivers
+* Detect underperforming products
+* Optimize pricing strategies
+* Improve overall business performance
 
 ---
 
 ## 📌 Conclusion
 
-This project demonstrates how raw data can be transformed into actionable insights that support strategic business decisions.
+This project demonstrates how raw data can be transformed into actionable insights that drive better business decisions.
 
----
+
